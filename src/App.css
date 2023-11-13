@@ -1,0 +1,7 @@
+.user__cards{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px;
+    height: 100%;
+}
